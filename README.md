@@ -8,7 +8,7 @@ I made this readme file just for fun and learning, it allows you to create nice 
 Skills: JS/HTML / PHP/ CSS
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariakleanNegrete&show_icons=true&theme=radical)
 
 
 
