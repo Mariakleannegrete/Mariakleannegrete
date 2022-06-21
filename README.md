@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mariakleannegrete
-- 👀 I’m interested in learning new ideas
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on 
-- 📫 To reach me just add me on facebook
+- Hi there 👋 
+- I'm Maria Klean Form Rodriguez Rizal, and i am an IT Student at Colegio De Montalban.
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARIA)](https://github.com/maria/github-readme-stats)
 
-<!---
-Mariakleannegrete/Mariakleannegrete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
