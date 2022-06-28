@@ -10,6 +10,4 @@ Skills: PHP/ HTML / CSS
 
 
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariakleanNegrete&show_icons=true&theme=radical)
