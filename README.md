@@ -1,6 +1,6 @@
 ﻿### Hi there 👋, My name is Maria Klean
 
-Im 
+Im an IT Students at Colegio De Montalban
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this for me to learn Github, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
